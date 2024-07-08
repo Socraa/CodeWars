@@ -1,4 +1,4 @@
------------------Problem-----------------
+-----------------Problem1-----------------
 
 There was a test in your class and you passed it. Congratulations!
 
@@ -10,3 +10,10 @@ Return true if you're better, else false!
 
 Note:
 Your points are not included in the array of your class's points. Do not forget them when calculating the average score!
+
+
+
+-----------------Problem2-----------------
+Given a non-empty array of integers, return the result of multiplying the values together in order. Example:
+
+[1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
